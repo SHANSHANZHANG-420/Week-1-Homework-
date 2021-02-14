@@ -1,5 +1,5 @@
 # Week-1-Homework-
-## Compound (Company) Case Study ---(Blockchain and Cryptocurrencies)
+## Compound (Company) Case Study (Blockchain and Cryptocurrencies)
 
 ### Overview 
 
@@ -10,4 +10,4 @@ Compound has raised 2 rounds funding. The first round has raised $8.2M from seed
 
 ### Business Activities 
 
-
+Lenders on DeFi protocoal *Compound* have been suffer fresh loan attack and tune of over **$100 million**. 
