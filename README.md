@@ -10,4 +10,7 @@ Compound has raised 2 rounds funding. The first round has raised $8.2M from seed
 
 ### Business Activities 
 
-Lenders on DeFi protocoal *Compound* have been suffer fresh loan attack and tune of over **$100 million**. 
+In 2020, the heart of many losses in the DeFi space is suffering flash loan attack by attacker. Lenders on DeFi protocol Compound (company) has fallen victim to flash loans exploit, and the tune of over **$100 million**. 
+
+#### Flash Loans in DeFi
+Flash Loan is a loan borrowing 
