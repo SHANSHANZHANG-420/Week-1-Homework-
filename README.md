@@ -16,6 +16,9 @@ In 2020, the heart of many losses in the DeFi space is suffering flash loan atta
 
 Flash Loan is borrowing cryptocurrency to borrower without collateral, and the loan needs to be paid back in seconds. The borrower can call (create) smart contracts in that same transaction. If they can make more money through their loan, then they can return the money and pocket the profits in few seconds. However, flash loan attack is the attacker borrowing the cryptocurrency from the loan provider and pushing up the price of the stable coin temporarily to double its value, at the end they pay back the loan with it. Therefore, flash loan attack usually is the attacker stole money from a flash loan provider. However, this is the story of Compound flash loan attack. 
 
-### Clients, Completitver and technology 
+#### Clients, Completitver and technology 
 
+The people who want to borrow cryptocurrency or stacking their cryptocurrency to earn APY (annual interest rate)  could be the client of Compound. 
+
+![](<iframe height="600px" width="800px" src="https://craft.co/embed/v1/companies/compound-918/market_position"/>)
 
