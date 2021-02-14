@@ -13,4 +13,9 @@ Compound has raised 2 rounds funding. The first round has raised $8.2M from seed
 In 2020, the heart of many losses in the DeFi space is suffering flash loan attack by attacker. Lenders on DeFi protocol Compound (company) has fallen victim to flash loans exploit, and the tune of over **$100 million**. 
 
 #### Flash Loans in DeFi
-Flash Loan is a loan borrowing 
+
+Flash Loan is borrowing cryptocurrency to borrower without collateral, and the loan needs to be paid back in seconds. The borrower can call (create) smart contracts in that same transaction. If they can make more money through their loan, then they can return the money and pocket the profits in few seconds. However, flash loan attack is the attacker borrowing the cryptocurrency from the loan provider and pushing up the price of the stable coin temporarily to double its value, at the end they pay back the loan with it. Therefore, flash loan attack usually is the attacker stole money from a flash loan provider. However, this is the story of Compound flash loan attack. 
+
+### Clients, Completitver and technology 
+
+
