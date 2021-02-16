@@ -14,9 +14,9 @@ Basically, Compound’s protocol is a series of open-source smart contracts that
 
 
 
-#### Clients, Competitor
+#### Clients and Competitor
 
-The people who want to borrow cryptocurrency or stake their cryptocurrency to earn APY (annual percentage yield) can be potential clients of Compound. So far, Compound Finance has more than 8 billion dollars of total supply and 3 billion of total borrow. Competitors of Compound include Aave, dYdX, MakerDao and Creamfinance.
+The people who want to borrow cryptocurrency or stake their cryptocurrency to earn APY (annual percentage yield) can be potential clients of Compound. So far, Compound Finance has more than 8 billion dollars of total supply and 3 billion of total borrow. Competitors of Compound include Aave, dYdX, MakerDao and Creamfinance. As a lending plattform, credit ranking and high interest rate are the key factors for people choosing them. Also, Compound has 83.9k followers and 100 percentage engage on twitter. It is good for the people know what happend in the company. I think one of the weekness of Compound is that they only can stake or borrow 13 types of crypto, it would be limitation the option of clients. 
 
 
 #### Flash Loans in DeFi
@@ -27,7 +27,7 @@ Flash Loan is borrowing cryptocurrency to borrower without collateral, and the l
 
 The story of Compound flash loan attack is another suitation. the attacker borrows 46 million DAI flash loan from Compound and switch it to cDAI. At that time, 46 million DAI is equal 2.4 billion cDAI. However, because of Oracle price fill mistake, attacker converted 2.4 billion cDAI  yielded 46.2 million DAI. Moreover, the attacker payed back 46 million DAI flash loan and left with 170.9 million cDAI which worth 3.5 million dollars profits. In here we can see Compound did not actually lose money from this flash loan trade. But, that flash loan trade leads to price of cDAI price increase, and some of the collateal become their assets ..... 
 
-For this kind of problems, Compound should not relying on centralized price oracles, they should compare the price with decentralized platform likes Chainlink. 
+For this kind of problems, Compound should not only relying on on-chain centralized price oracles, they should look at the price off-chain likes the price in decentralized platform e.g. Chainlink. 
 
 
 
