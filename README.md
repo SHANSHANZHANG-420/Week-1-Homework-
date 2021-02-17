@@ -1,5 +1,5 @@
 # Week-1-Homework-
-## Compound (Company) Case Study (Blockchain and Cryptocurrencies)
+## Compound Case Study (Blockchain and Cryptocurrencies)
 
 ### Overview 
 
@@ -16,11 +16,10 @@ Basically, Compound’s protocol is a series of open-source smart contracts that
 
 #### Clients and Competitor
 
-The people who want to borrow cryptocurrency or stake their cryptocurrency to earn APY (annual percentage yield) can be potential clients of Compound. So far, Compound Finance has more than 8 billion dollars of total supply and 3 billion of total borrow. Competitors of Compound include Aave, dYdX, MakerDao and Creamfinance. As a lending plattform, credit ranking and high interest rate are the key factors for people choosing them. Also, Compound has 83.9k followers and 100 percentage engage on twitter. It is good for the people know what happend in the company. I think one of the weekness of Compound is that they only can stake or borrow 13 types of crypto, it would be limitation the option of clients. 
+The people who want to borrow cryptocurrency or stake their cryptocurrency to earn APY (annual percentage yield) can be potential clients of Compound. So far, Compound Finance has more than 8 billion dollars of total supply and 3 billion of total borrow. Competitors of Compound include Aave, dYdX, MakerDao and Creamfinance. As a lending plattform, credit ranking and high interest rate are the key factors for people choosing them. Moreover, Compound has 83.9k followers and 100 percentage engage on twitter. It is good for the people know what happend in the company. I think one of the weekness of Compound is that they only can stake or borrow 13 types of crypto, and Compound only provieds landing and depositing sevice to customers, it would be limitation the option to clients. Compound's compertior Aave offers 23 types of crypto borrwoing and depositing, also people can get AAVE token in different plattom which can expend the market of AAVE token. 
 
 
 #### Flash Loans in DeFi
-
 In 2020, many losses occured in the DeFi space from flash loan attacks. Lenders on the Compound platform have fallen victim to flash loans exploit, and loss of over **$100 million**. 
 
 Flash Loan is borrowing cryptocurrency without collateral, and the loan needs to be paid back in seconds. The borrower can call (create) a smart contract where multiple transactions can happen in a few seconds. If they can make more money through their loan, then they can return the debt and pocket the keep the profit. However, flash loan attack is the attacker borrowing the cryptocurrency from the loan provider and pushing up the price of the stable coin temporarily to increase its value, at the end they pay back the loan with it.  
