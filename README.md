@@ -21,13 +21,13 @@ The people who want to borrow cryptocurrency or stake their cryptocurrency to ea
 
 #### Flash Loans in DeFi
 
-In 2020, many losses occured in the DeFi space from flash loan attacks. Lenders on DeFi protocol Compound (company) has fallen victim to flash loans exploit, and the tune of over **$100 million**. 
+In 2020, many losses occured in the DeFi space from flash loan attacks. Lenders on the Compound platform have fallen victim to flash loans exploit, and loss of over **$100 million**. 
 
-Flash Loan is borrowing cryptocurrency to borrower without collateral, and the loan needs to be paid back in seconds. The borrower can call (create) smart contracts in that same transaction. If they can make more money through their loan, then they can return the money and pocket the profits in few seconds. However, flash loan attack is the attacker borrowing the cryptocurrency from the loan provider and pushing up the price of the stable coin temporarily to double its value, at the end they pay back the loan with it. Therefore, flash loan attack usually is the attacker stole money from a flash loan provider. 
+Flash Loan is borrowing cryptocurrency without collateral, and the loan needs to be paid back in seconds. The borrower can call (create) a smart contract where multiple transactions can happen in a few seconds. If they can make more money through their loan, then they can return the debt and pocket the keep the profit. However, flash loan attack is the attacker borrowing the cryptocurrency from the loan provider and pushing up the price of the stable coin temporarily to increase its value, at the end they pay back the loan with it.  
 
-The story of Compound flash loan attack is another suitation. the attacker borrows 46 million DAI flash loan from Compound and switch it to cDAI. At that time, 46 million DAI is equal 2.4 billion cDAI. However, because of Oracle price fill mistake, attacker converted 2.4 billion cDAI  yielded 46.2 million DAI. Moreover, the attacker payed back 46 million DAI flash loan and left with 170.9 million cDAI which worth 3.5 million dollars profits. In here we can see Compound did not actually lose money from this flash loan trade. But, that flash loan trade leads to price of cDAI price increase, and some of the collateal become their assets ..... 
+The story of Compound flash loan attack is as follows. The attacker borrowed 46 million DAI flash loan from Compound and switched it to cDAI. At that time, 46 million DAI was worth 2.4 billion cDAI. However, because of an oracle (oracle is what reads provides off-chain data for a blockchain) price feed mistake, attacker converted 2.4 billion cDAI and yielded 46.2 million DAI. Then, the attacker payed back 46 million DAI flash loan and was left with 170.9 million cDAI which was worth 3.5 million dollars in profit. Here the oracle was from a well-known central exchange called Coinbase. A mistake in the price feed of this oracle was capitalised by the attacker, and this unreasonable profit.
 
-For this kind of problems, Compound should not only relying on on-chain centralized price oracles, they should look at the price off-chain likes the price in decentralized platform e.g. Chainlink. 
+For this kind of problems, Compound should not only relying on centralised oracles, but also, decentralised ones such as Chainlink.
 
 
 
